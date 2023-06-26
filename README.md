@@ -2,7 +2,7 @@
 
 first clone the code
 
-next complie the code
+next compile the code
 mvn clean install
 
 run the code
